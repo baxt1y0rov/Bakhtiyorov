@@ -1,11 +1,11 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2023-09-02'
+title: 'Developer, Graphic Designer'
+company: 'Jizzakh PS'
+location: 'Jizzakh, Uzbekistan'
+range: 'Autmn 2023 - 2027'
+url: 'https://www.jizzakhps.uz/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Designed and Build the web page of the School from 0 with my collaborator.
+- Drew graphical elements for the web site.
