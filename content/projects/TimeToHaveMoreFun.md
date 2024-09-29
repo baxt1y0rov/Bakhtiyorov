@@ -2,7 +2,7 @@
 date: '2024-08-10'
 title: 'Building Travel N'
 github: 'https://github.com/baxt1y0rov/TravelN '
-external: 'https://beta-traveln.vercel.app'
+external: 'https://beta-travel-n.vercel.app'
 tech:
   - Vite.js
   - React JS
