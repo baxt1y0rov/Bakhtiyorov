@@ -1,12 +1,12 @@
 ---
-date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+date: '2024-09-29'
+title: 'Building AiFan'
+github: 'https://github.com/baxt1y0rov/aifan'
+external: 'https://www.aifan.uz'
 tech:
-  - Vue
-  - Firebase
+  - Vite.js
+  - React.js
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+Building web site, hopefully i will build it on Mantine UI, well Project in Progress ...

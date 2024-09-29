@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.instagram.com/ikhtiyorovic.i"
+      href="https://www.instagram.com/bakkhtiyoroff"
       target="_blank"
       rel="noreferrer">
       Enjoy my Arts!
