@@ -9,4 +9,4 @@ tech:
   - Adobe Illustrator
 ---
 
-A minimal, black & white themed T-Shirt Design fir Jizzakh PS Media Team, Adobe Photoshop, Adobe Illustrator and more. [Preview]()
+A minimal, black & white themed T-Shirt Design fir Jizzakh PS Media Team, Adobe Photoshop, Adobe Illustrator and more. [You can also offer a design](https://t.me/baxt1y0rov)

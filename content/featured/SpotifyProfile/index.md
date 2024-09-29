@@ -3,7 +3,7 @@ date: '2'
 title: 'The Dawn Magazine'
 cover: './demo.png'
 github: ''
-external: 'https://t.me/the_dawn_jounal'
+external: 'https://t.me/the_dawn_journal'
 tech:
   - Adobe Photoshop
   - Adobe Illustrator
