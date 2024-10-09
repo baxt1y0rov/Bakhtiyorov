@@ -61,7 +61,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Ismatulloh Bakhtiyorov.</h2>;
-  const three = <h3 className="big-heading">Engineer & Digital Arist.</h3>;
+  const three = <h3 className="big-heading">Engineer & Digital Artist.</h3>;
   const four = (
     <>
       <p>
@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.instagram.com/bakkhtiyoroff"
+      href="https://www.instagram.com/ikhtiyorovic.i"
       target="_blank"
       rel="noreferrer">
       Enjoy my Arts!
