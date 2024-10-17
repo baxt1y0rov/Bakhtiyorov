@@ -59,9 +59,10 @@ const StyledPic = styled.div`
     ${({ theme }) => theme.mixins.boxShadow};
     display: block;
     position: relative;
-    width: 100%;
-    border-radius: var(--border-radius);
+    width: 12x0%;
+    border-radius: 500px;
     background-color: var(--green);
+    border: 2px solid var(--green);
 
     &:hover,
     &:focus {
@@ -80,7 +81,7 @@ const StyledPic = styled.div`
 
     .img {
       position: relative;
-      border-radius: var(--border-radius);
+      border-radius: 500px;
       mix-blend-mode: multiply;
       filter: grayscale(100%) contrast(1);
       transition: var(--transition);
@@ -93,7 +94,7 @@ const StyledPic = styled.div`
       position: absolute;
       width: 100%;
       height: 100%;
-      border-radius: var(--border-radius);
+      border-radius: 500px;
       transition: var(--transition);
     }
 
@@ -125,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [ 'Mantine', 'React','Adobe Photoshop','Adobe Illustrator','Adobe Premiere Pro','Figma','Blender','Capcut'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +136,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Ismatulloh, I am student of Jizzakh Presidential School and I enjoy creating things that live on the internet. My
+              interest in web development started back in 2022 when I decided to try making some smaller web-sites. Also my journey of graphic designing was started in 2021, that Time I edited some pictures on Adobe Photoshop.
+              Since today I have mastered many programms on computer.  
             </p>
+            
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
+              Fast-forward to today, and I’ve had the privilege of working on{' '}
+              <a href="https://t.me/the_dawn_journal">"The Dawn" magazine project</a>,{' '}
+              <a href="https://dovuchcha.uz/">"Dovuchcha" project</a>,{' '}
+              <a href="https://jizzakhps.uz/">school's web-site</a>, and{' '}
+              <a href="https://aifan.uz/">AiFan</a>. My
+              main focus these days is building coming web projects, inclusive products and digital
+              experiences at <a href="https://github.com/baxt1y0riv">GitHub</a> for a proof for
               clients.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              I also have{' '}
+              <a href="https://www.youtube.com/@iib_design">
+                my YouTube channel
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              that I'll post my projects, outputs, tutorials, and working timelapses
+              &amp; you can subscribe there.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -170,7 +171,7 @@ const About = () => {
         </StyledText>
 
         <StyledPic>
-          <div className="wrapper">
+          <div className="wrapper" >
             <StaticImage
               className="img"
               src="../../images/me.jpg"
