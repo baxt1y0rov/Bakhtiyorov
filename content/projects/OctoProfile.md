@@ -1,13 +1,13 @@
 ---
-date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2024-09-15'
+title: 'Building Naim.uz'
+github: 'https://github.com/baxt1y0rov/naim'
+external: 'https://www.naim.uz'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Vite.js
+  - React JS
+  - Mantine UI
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Building and Designing portfolio web for school teacher Naim Narzikulov

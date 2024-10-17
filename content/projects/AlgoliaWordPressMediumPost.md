@@ -1,14 +1,13 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2024-02-22'
+title: 'Web Page for Jizzakh PS'
+github: 'https://github.com/baxt1y0rov/jizzakhps.v4'
+external: 'https://v4.jizzakhps.uz'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - React JS
+  - Material UI
+company: 'Jizzakh PS'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Editing Open Source Template got from Material UI for Jizzakh PS

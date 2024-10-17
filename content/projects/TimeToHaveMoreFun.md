@@ -1,14 +1,14 @@
 ---
-date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+date: '2024-08-10'
+title: 'Building Travel N'
+github: 'https://github.com/baxt1y0rov/TravelN '
+external: 'https://beta-travel-n.vercel.app'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
-company: ''
+  - Vite.js
+  - React JS
+  - Mantine UI
+company: 'Travel N'
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Web Page specialized for tourism to give information travel destinations in Uzbekistan

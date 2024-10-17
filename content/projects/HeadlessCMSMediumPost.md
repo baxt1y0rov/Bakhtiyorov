@@ -1,15 +1,14 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+date: '2024-05-25'
+title: 'Building "Dovuchcha" web'
+github: 'https://github.com/baxt1y0rov/dovuchcha'
+external: 'https://www.dovuchcha.uz'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Vite.js
+  - React JS
+  - Mantine UI
+company: 'Dovuchcha'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Building and stylizing web-page for Dovuchcha dubbing project it
