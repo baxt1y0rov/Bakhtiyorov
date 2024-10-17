@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="">
-          <div>Go Up ^</div>
+          <div>Restart</div>
         </a>
       </StyledCredit>
     </StyledFooter>
