@@ -149,7 +149,7 @@ const About = () => {
               <a href="https://jizzakhps.uz/">school's web-site</a>, and{' '}
               <a href="https://aifan.uz/">AiFan</a>. My
               main focus these days is building coming web projects, inclusive products and digital
-              experiences at <a href="https://github.com/baxt1y0riv">GitHub</a> for a proof for
+              experiences at <a href="https://github.com/baxt1y0rov">GitHub</a> for a proof for
               clients.
             </p>
 
