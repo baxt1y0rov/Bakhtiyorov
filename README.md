@@ -7,11 +7,6 @@
 <p align="center">
   The first iteration of <a href="https://baxtiyorov.uz" target="_blank">baxtiyorov.uz</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
-<p align="center">
-  <a href="https://app.netlify.com/teams/ismatullohbakh2010/sites" target="_blank">
-    <img src="./preview.png" alt="Netlify Status" />
-  </a>
-</p>
 
 ![demo](./demo.png)
 
