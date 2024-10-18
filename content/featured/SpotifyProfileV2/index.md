@@ -2,7 +2,7 @@
 date: '3'
 title: 'Modeling & Lighting , 3D Graphics'
 cover: './course-card.png'
-external: ''
+external: 'https://www.instagram.com/bakkhtiyoroff'
 cta: 'https://www.instagram.com/bakkhtiyoroff'
 tech:
   - Blender
