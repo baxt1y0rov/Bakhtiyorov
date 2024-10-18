@@ -9,11 +9,11 @@
 </p>
 <p align="center">
   <a href="https://app.netlify.com/teams/ismatullohbakh2010/sites" target="_blank">
-    <img src="/public/og@2x.png" alt="Netlify Status" />
+    <img src="./preview.png" alt="Netlify Status" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](./demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
